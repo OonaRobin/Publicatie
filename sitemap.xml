@@ -6,9 +6,6 @@
 		<loc>https://oonarobin.github.io/fotografie.html</loc>
 	</url>
 	<url>
-		<loc>https://oonarobin.github.io/video.html</loc>
-	</url>
-	<url>
 		<loc>https://oonarobin.github.io/contact.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,8 @@
 	</url>
 	<url>
 		<loc>https://oonarobin.github.io/index.html</loc>
+	</url>
+	<url>
+		<loc>https://oonarobin.github.io/publicatie.html</loc>
 	</url>
 </urlset>
