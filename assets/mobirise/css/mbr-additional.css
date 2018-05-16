@@ -1375,8 +1375,8 @@ body {
   display: none;
 }
 .cid-qBIrAIFBbr {
-  padding-top: 135px;
-  padding-bottom: 135px;
+  padding-top: 75px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qBIrAIFBbr .mbr-slider .carousel-control {
@@ -2789,7 +2789,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-qEmjYpFlHI button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3052,7 +3052,7 @@ body {
   background: transparent !important;
 }
 .cid-qS7tXDe1Bm .mbr-gallery-item > div:hover:before {
-  opacity: 0.6 !important;
+  opacity: 0.2 !important;
 }
 .cid-qS7tXDe1Bm .mbr-gallery-title {
   font-size: .9em;
@@ -3074,7 +3074,7 @@ body {
   position: absolute;
   background: #b2ccd2 !important;
   background: linear-gradient(to left, #b2ccd2, #b2ccd2) !important;
-  opacity: 0.6;
+  opacity: 0.2;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
@@ -3883,4 +3883,47 @@ body {
 .cid-qEmk83fmDS .nav-link:hover,
 .cid-qEmk83fmDS .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-qSey42t9tw {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-qSey42t9tw .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qSey42t9tw .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qSey42t9tw .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-qSey42t9tw .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qSey42t9tw .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qSey42t9tw .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qSey42t9tw .img-item {
+    width: 100% !important;
+  }
+  .cid-qSey42t9tw .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
 }
