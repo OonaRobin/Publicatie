@@ -163,33 +163,33 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan-15-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-15-2000x2829-800x1132.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scan-15-2000x2829.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-15-2000x2829-800x1132.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
                 "active": true,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan-7-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-7-2000x2829-800x1132.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/scan-1-kopie-2000x2829.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-1-kopie-2000x2829-800x1122.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false,
                 "title": ""
               }
             ]
