@@ -23,10 +23,10 @@ body {
 }
 .display-1 {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 5rem;
+  font-size: 1.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 8rem;
+  font-size: 1.92rem;
 }
 .display-2 {
   font-family: 'PT Sans Narrow', sans-serif;
@@ -63,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 4rem;
-    font-size: calc( 2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.12rem;
@@ -3134,6 +3134,24 @@ body {
 .cid-qEmkaPxtkb .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-qSAOOnk1pf {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qSAOOnk1pf .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qSAOOnk1pf .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qSAOOnk1pf .mbr-text {
+  color: #767676;
+}
 .cid-qEmjYpFlHI .navbar {
   background: #ffffff;
   transition: none;
@@ -3584,6 +3602,14 @@ body {
   opacity: 0.2;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+}
+.cid-qSAF9W9hbO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qSAF9W9hbO .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-qBIlv6ddpX {
   background-image: url("../../../assets/images/img-20171008-152251944-2000x1125.jpg");
