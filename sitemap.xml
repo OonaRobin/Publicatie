@@ -1,17 +1,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://oonarobin.github.io/tekeningen.html</loc>
-	</url>
-	<url>
-		<loc>https://oonarobin.github.io/fotografie.html</loc>
-	</url>
-	<url>
-		<loc>https://oonarobin.github.io/contact.html</loc>
-	</url>
-	<url>
-		<loc>https://oonarobin.github.io/sculptuur.html</loc>
-	</url>
-	<url>
 		<loc>https://oonarobin.github.io/index.html</loc>
+	</url>
+	<url>
+		<loc>https://oonarobin.github.io/about.html</loc>
+	</url>
+	<url>
+		<loc>https://oonarobin.github.io/photography.html</loc>
+	</url>
+	<url>
+		<loc>https://oonarobin.github.io/drawings.html</loc>
+	</url>
+	<url>
+		<loc>https://oonarobin.github.io/sculpture.html</loc>
 	</url>
 </urlset>
